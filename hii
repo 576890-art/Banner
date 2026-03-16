@@ -1,0 +1,11 @@
+tumi tomar ki khobor 
+install 
+korar tool 
+pkg install python 
+pkg install git 
+git clone https://github.com/576890-art/Banner.git
+ls 
+cs Banner 
+ls 
+python Banner.py
+
